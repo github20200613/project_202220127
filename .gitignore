@@ -1,0 +1,6 @@
+# 忽略redme.txt这个文件
+redme.txt
+# 忽略sss.html这个文件
+sss.html
+# 忽略test目录下所有的文件
+test/
